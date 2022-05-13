@@ -23,7 +23,7 @@ public:
 	bool getmeow(){
 		return meow;
 	}
-	kedi(string renk,bool meow):hayvan(renk),meow(meow){}
+	kedi(string renk,bool meow):hayvan(renk),meow(meow){}//	BURAYA DİKKAT!!!!!!!!!!!!!!!!!!!
 	
 
 };
